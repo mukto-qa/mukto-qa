@@ -65,15 +65,28 @@
 
 ---
 
-## 🔥 GitHub Activity
+## 🔁 Engineering Activity & Impact
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=mukto-qa&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="GitHub Streak"
-  />
-</p>
+- 🧪 **Active QA Automation Development**
+  - Designing and maintaining scalable test automation frameworks
+  - Regular commits focused on reliability, readability, and reusability
+
+- 🏗 **Framework-Centric Work**
+  - Page Object Model (POM) and layered architecture
+  - Data-driven and configuration-driven test execution
+  - Clear separation of test logic, test data, and utilities
+
+- 🔄 **CI/CD & Continuous Quality**
+  - Integrating automated tests into CI pipelines
+  - Ensuring fast feedback through stable and non-flaky tests
+  - Emphasis on shift-left testing practices
+
+- 📈 **Continuous Improvement**
+  - Refactoring test code for maintainability
+  - Improving test coverage based on risk and impact
+  - Learning and applying industry best practices in automation
+
+> 💡 *I prioritize meaningful engineering contributions over vanity metrics.*
 
 
 ---
