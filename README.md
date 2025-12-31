@@ -65,19 +65,11 @@
 
 ---
 
-## 🔥 GitHub Analytics
+## 🔥 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mukto-qa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
-    height="160"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=mukto-qa&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-streak-stats.herokuapp.com?user=mukto-qa&theme=tokyonight&hide_border=true"
     height="160"
     alt="GitHub Streak"
   />
