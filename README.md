@@ -65,16 +65,24 @@
 
 ---
 
-📊 GitHub Analytics
+## 🔥 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukto-qa&show_icons=true" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mukto-qa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
+    height="160"
+    alt="GitHub Stats"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukto-qa&layout=compact" alt="Top Languages" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=mukto-qa&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="160"
+    alt="GitHub Streak"
+  />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mukto-qa" alt="GitHub Streak" />
-</p>
+
 
 ---
 
