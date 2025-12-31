@@ -65,17 +65,13 @@
 
 ---
 
-📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukto-qa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukto-qa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukto-qa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mukto-qa&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</div>
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukto-qa&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukto-qa&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukto-qa&theme=dark&hide_border=true)
 
 ---
 
