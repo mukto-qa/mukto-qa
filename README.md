@@ -30,7 +30,14 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukto-qa&repo=orangehrm-test-automation-framework&layout=compact"
+  align="right"
+  src="https://github-readme-stats.vercel.app/api/top-langs
+    ?username=mukto-qa
+    &repo=orangehrm-test-automation-framework
+    &layout=compact
+    &theme=radical
+    &hide_border=true"
+  width="320"
 />
 
 
