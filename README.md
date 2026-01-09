@@ -180,10 +180,6 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/mukto-qa/manual-testing-project-ecommerce"><b>Manual Testing Project - E-Commerce</b></a></td>
-<td>Comprehensive manual testing documentation covering test planning, test case design, and bug reporting for an e-commerce application. Includes functional, UI, and exploratory testing scenarios with real-world edge cases.</td>
-</tr>
-<tr>
 <td><a href="https://github.com/mukto-qa/selenium-java-testng-lambdatest"><b>Selenium Java TestNG Framework</b></a></td>
 <td>Production-ready hybrid automation framework built with Java, Selenium WebDriver, and TestNG. Features Page Object Model architecture, data-driven testing, cross-browser execution, CI/CD integration with GitHub Actions, and comprehensive test reporting with Allure.</td>
 </tr>
