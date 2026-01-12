@@ -179,6 +179,15 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><a href="https://github.com/mukto-qa/selenium-java-testng-lambdatest"><b>Selenium Java TestNG Framework</b></a></td>
+<td>Production-ready hybrid automation framework built with Java, Selenium WebDriver, and TestNG. Features Page Object Model architecture, data-driven testing, cross-browser execution, CI/CD integration with GitHub Actions, and comprehensive test reporting with Allure.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/mukto-qa/postman-demo-api-tests"><b>Postman API Testing Collection</b></a></td>
+<td>Complete API testing suite demonstrating RESTful API validation with three collections: User Management (CRUD operations with scripting), Authentication (login/registration with boundary tests), and Data-Driven testing. Includes API chaining, schema validation, negative testing, and Newman CLI integration.</td>
+</tr>
+<tr>
 <td><b>Coming Soon</b></td>
 <td>Next project in development - Stay tuned!</td>
 </tr>
