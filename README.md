@@ -179,6 +179,59 @@
 </tr>
 </thead>
 <tbody>
+  <tr>
+<td>
+<b>Manual Testing – LambdaTest Demo App</b><br/>
+<a href="https://github.com/Mukto110/manual-testing-project-ecommerce">🔗 GitHub Repository</a>
+</td>
+<td>
+• Designed detailed test scenarios and comprehensive test cases for a LambdaTest demo e-commerce application.<br/>
+• Executed manual test cases and documented clear, structured defect reports.<br/>
+• Simulated real-world bug tracking and defect life-cycle management using Jira.<br/>
+• <b>Tools:</b> Excel, Jira, LambdaTest
+</td>
+</tr>
+
+<tr>
+<td>
+<b>Java Selenium Automation Framework (Hybrid)</b><br/>
+<a href="https://github.com/Mukto110/selenium-java-testng-lambdatest">🔗 GitHub Repository</a>
+</td>
+<td>
+• Developed a scalable hybrid automation framework using Selenium, TestNG, and Maven.<br/>
+• Implemented Page Object Model (POM) with method chaining for clean and reusable test design.<br/>
+• Automated critical test scenarios derived from manual testing projects.<br/>
+• Integrated Log4j logging and TestNG + Extent Reports for execution reporting.<br/>
+• <b>Tools:</b> Java, Selenium, TestNG, Maven, Log4j, GitHub
+</td>
+</tr>
+
+<tr>
+<td>
+<b>API Testing with Postman</b><br/>
+<a href="https://github.com/Mukto110/postman-demo-api-tests">🔗 GitHub Repository</a>
+</td>
+<td>
+• Implemented API chaining and data-driven testing using Postman environment variables.<br/>
+• Validated status codes, response payloads, JSON schema, and response times.<br/>
+• Automated Postman collection execution using Newman integrated with GitHub Actions CI.<br/>
+• Documented reusable collections and test flows for team reuse.<br/>
+• <b>Tools:</b> Postman, Newman, GitHub Actions, JSON Schema Validator
+</td>
+</tr>
+
+<tr>
+<td>
+<b>Playwright Automation Framework (JavaScript & TypeScript)</b><br/>
+<a href="https://github.com/Mukto110/demoblaze_playwright_automation">🔗 GitHub Repository</a>
+</td>
+<td>
+• Built a custom end-to-end Playwright automation framework from scratch.<br/>
+• Designed reusable helpers, fixtures, and reporting configuration.<br/>
+• Implemented modular and maintainable test scripts following Playwright best practices.<br/>
+• <b>Tools:</b> Playwright, Node.js, JavaScript, TypeScript, GitHub
+</td>
+</tr>
 <td><b>Coming Soon</b></td>
 <td>Next project in development - Stay tuned!</td>
 </tr>
